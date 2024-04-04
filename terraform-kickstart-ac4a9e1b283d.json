@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "terraform-kickstart",
+  "private_key_id": "ac4a9e1b283d777aada3692868e9a3dd44d80724",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCUkFdLpyNGQ0UG\nhPMPwj5eE4jGYc6YvGrhh9Ci+LttrKgJ2fTMaxNnVe2YTDVxWQZDcRIBB5RiPq7H\nVHZbo9De5Jik97RlTh0rQckguZVTNHK9wNXeX0bMyfgMz//zr8Inp+xpl/Omf98I\nqV6YqFyHCNAmRz9suzI12rbFRbKloB/UxeGxOTNq/LCN98XMdnHANkD2Bubz+rSv\nXyDNMVB2XQDUBCxD735BdAT+gidT74KRO++uKGLJRrKQGZkp5Ztw1uVo1Rh80ONi\n1/L6RaNGBnSoA97sbTKhNFAq0lqBdTnmIOz31uuXc0l2AWCVk/fvZX45itWwcQGN\n2bSMoCirAgMBAAECggEAN3eGqC/AW0jdWhhEOZN/vpcTf2HgBSV/0DFpg5dTPxjx\n6i+ulq25omCyIyT85RNkY8SxAKJoU5/smG5f/En2v2lg1mLHPvWBrXdT1PyFFHom\nBtOa5fnzkJ0tl/cGrGBoIG8xNKFvbjAawPyfXWaqmR4AvPHn67wefH3qtE+X6f8D\ne7mm5dTtqJyINAL7XonfEYrOdYARk71H7TwYz4gtX5PkANyVaazZugJJh2OZZUDX\nT4LYfCqN2TPD1MKLvZcEZ6gvYWkaoHrfuSpqL+cTi0XLTPVqsfyuw6byoMeq1e5d\njTIKBQJSSTITGyFMAl5B4mbDdKhsZ0+HoFPxxO0mmQKBgQDKHxlHw5kMkroGC+Oa\nkbSGMzvPrTcjmgkHPEpsG2+u4QJX+rRBKPNPbrNpmKPgQuEra6m9akMSiUSYLgqS\nB7DRW26b4AxCKXxE6QX4Gph+XpKvPWu2fEMOBEB6HxiaQdBWfLnE/1RgNHXlefOT\n06hbR/edWdyqRqmCvof1mF1FWQKBgQC8Km78mtU8+5xo1GqK7zStGfH2c8fOO/nU\nzcYzVI1LOqRgg6PAP6Mww/gEAoq2EGj8exrkrlG27k5PoZ6H00kPdqJBAvxinYkL\nTj98jrcdi51dISP98iwMvqpbBARUybb2XSErseKMxdRxU8hL49eNhLlJspquwud5\ndF5g1zfpowKBgD0a28SzYIDJlw2e6IdhR2dO8+UcI9BSkCos0v8N6FzBT7kTZQ1R\n+QTpnbnt2JVDAtniqaVHC9H9x8wOF0oAozcX4j+jo3EZI6WdoR1ZxQJnSwdJlVfN\nB2Skam3BGun/vaF4AZ2J55NSKNZgYQAu+/XksvpSIYEk7bhGK8pW7tO5AoGABL2A\n7EYuRwoDp7RqNrPN/OphaRcDmpNyOMUyUAq6QIHqsC/AyVARGWJmdhtmSS3ipzGm\nvMoTbutT97eXmc5d0dDoR4D+wLE9SZagDNA/lrP0s+ro0DXwnCWVfxN71HL8c/pm\nooYpsegt8Ojua9MClCMa09t3AB4S3MFsuz3Qv8cCgYAQstt7Iico6mY1Ln3Zeqow\n3r6B1pFMzKBZggfqvDUj691TFeTaPoEe+WOtffagUqeYEVOnFXKw1upBJOcJwi9S\nZF63gDRwVeEXvEZKtLq10FDT+QG7tL/N+ahEt+7KzhD3aEFmCmbFoH3J4wCVPdzX\nztBxqJI3IOkleQRRmtJoCQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-service-account@terraform-kickstart.iam.gserviceaccount.com",
+  "client_id": "104248040304999563638",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-service-account%40terraform-kickstart.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
